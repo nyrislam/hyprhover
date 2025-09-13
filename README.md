@@ -1,5 +1,5 @@
 ```bash
-hyprland waybar wofi swww kitty zsh
+hyprland waybar wofi swww kitty zsh swaync
 
 imagemagick bc git wget curl nwg-look
 
